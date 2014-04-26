@@ -1,6 +1,7 @@
 # Summary
 
-* Spanish
+* [Spanish](Spanish)
+    * [Aumentativos](Aumentativos)
 * Collaboration
 * PhD
 
